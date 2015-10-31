@@ -1,4 +1,4 @@
-# Drupal 8 tips
+# Drupal 8 + Pantheon tips
 
 ## Managing dependencies with Composer Manager
 
@@ -13,3 +13,9 @@ And we’re done. The vendor directory now contains our module’s dependencies.
 Once we decide to install another module with Composer dependencies, for example Drupal Commerce, we just need to download that module, then run `composer drupal-update` again.
 
 [Source](https://bojanz.wordpress.com/2015/09/18/d8-composer-definitive-intro/)
+
+## Sample workflow for pushing local code changes to master
+
+    git add .
+    git commit -m "Description of the change."
+    git push origin master
