@@ -20,3 +20,4 @@ Once we decide to install another module with Composer dependencies, for example
     git commit -m "Description of the change."
     git push origin master
     
+[See more](https://pantheon.io/docs/articles/local/starting-with-git/)
