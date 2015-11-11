@@ -21,3 +21,7 @@ Once we decide to install another module with Composer dependencies, for example
     git push origin master
     
 [See more](https://pantheon.io/docs/articles/local/starting-with-git/)
+
+## Articles
+
+* [D8FTW: Storing data in Drupal 8](https://www.palantir.net/blog/d8ftw-storing-data-drupal-8) by Larry Garfield. The different ways to store stuff in Drupal 8. [All articles in series D8FTW](https://www.palantir.net/blog/series/d8ftw).
