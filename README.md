@@ -24,7 +24,3 @@ Once we decide to install another module with Composer dependencies, for example
     
 [See more](https://pantheon.io/docs/articles/local/starting-with-git/)
 
-## Articles
-
-* [D8FTW: Storing data in Drupal 8](https://www.palantir.net/blog/d8ftw-storing-data-drupal-8) by Larry Garfield. The different ways to store stuff in Drupal 8.
-* [Connect Drupal 8 RESTful Service with Guzzle PHP Web Service Client](eureka.ykyuen.info/2013/09/03/connect-drupal-8-restful-service-with-guzzle-php-web-service-client-1/)
