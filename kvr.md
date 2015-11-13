@@ -7,11 +7,12 @@
 3. Commit a settings change using Pantheon dashboard (PD)
 4. Switch from SFTP to Git
 
-### Clone your Git repository locally using the Git address provided by PD.
+### Clone your Git repository locally using the Git address provided by PD
 
     git clone ssh ...
 
-### Download modules locally with drush
+### Download required modules locally with drush
 
     cd modules
     drush dl composer_manager, restui-8.x-1.x, rest_api_doc, csv_serialization, migrate_plus, field_group
+
