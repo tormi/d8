@@ -6,9 +6,10 @@
 2. Visit [dev site](http://dev-kvr.pantheon.io/) and install it
 3. Commit a settings change using Pantheon dashboard (PD)
 4. Switch from SFTP to Git
-5. Clone your Git repository locally using the Git address provided by PD.
 
-    git clone ssh ... 
+### Clone your Git repository locally using the Git address provided by PD.
+
+    git clone ssh ...
 
 ### Download modules locally with drush
 
