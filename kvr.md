@@ -23,3 +23,9 @@
     drush dl composer_manager  
     php modules/composer_manager/scripts/init.php  
     composer drupal-update 
+
+### Push local code changes to master
+
+    git add .
+    git commit -m "Description of the change."
+    git push origin master
