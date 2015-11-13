@@ -32,5 +32,5 @@
 
 ### Enable pushed modules
 
-1. Switch from Git to SFTP on PD
+1. Switch from Git to SFTP in PD
 2. Enable modules on http://dev-kvr.pantheon.io/admin/modules
