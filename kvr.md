@@ -13,6 +13,6 @@
 
 ### Download required modules locally with drush
 
-    cd site's root
+    cd {site root}
     drush dl composer_manager, restui-8.x-1.x, rest_api_doc, csv_serialization, migrate_plus, field_group
 
