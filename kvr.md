@@ -29,3 +29,8 @@
     git add .
     git commit -m "Description of the change."
     git push origin master
+
+### Enable pushed modules
+
+1. Switch from Git to SFTP on PD
+2. Enable modules on http://dev-kvr.pantheon.io/admin/modules
