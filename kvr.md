@@ -2,8 +2,8 @@
 
 ### Set up a new D8 site on Pantheon
 
-1. Create new dev site on https://dashboard.pantheon.io/
-2. Visit dev site and install it
+1. Create new dev site `kvr` on https://dashboard.pantheon.io/
+2. Visit [dev site](http://dev-kvr.pantheon.io/) and install it
 3. Commit a settings change using Pantheon dashboard (PD)
 4. Switch from SFTP to Git
 5. Clone your Git repository locally using the Git address provided by PD.
